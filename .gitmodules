@@ -1,0 +1,6 @@
+[submodule "math"]
+	path = math
+	url = https://github.com/SeitaRyuumon/math.git
+[submodule "english"]
+	path = english
+	url = https://github.com/SeitaRyuumon/english.git
